@@ -1,5 +1,3 @@
+{{ saltenv }}:
 '*':
-  - test
-
-'web*':
-  - test
+  - test.*
