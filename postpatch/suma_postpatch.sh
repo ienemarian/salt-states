@@ -7,8 +7,8 @@ packages_updated=0                # Set the packages updated count to 0
  
 # Set the start_date and End_date
 # Format: YYYY-MM-DD
-start_date="2025-02-06"
-end_date="2025-02-25"
+start_date="2025-03-01"
+end_date="2025-02-31"
  
 # Transform dates in seconds
 start_date_seconds=$(date -d "$start_date" +%s)
